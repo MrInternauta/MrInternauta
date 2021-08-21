@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felipe Ramirez Rodriguez (Mr.Internauta)</h1>
+<h1 align="center">Hi 👋, I'm Felipe Ramirez</h1>
 <h3 align="center">I got the experience to develop web applications (Backend-Frontend), server applications, hybrid mobile apps (iOS-Android), and Android native mobile apps. I like learning about different technologies, I participated in some national/international concourses, I think the best way to learn is by teaching. Your best teacher is your last error!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinternauta&label=Profile%20views&color=0e75b6&style=flat" alt="mrinternauta" /> </p>
