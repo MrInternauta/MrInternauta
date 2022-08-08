@@ -8,7 +8,7 @@ on:
     branches: [main]
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "56 * * * *"
+    - cron: "57 * * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -21,7 +21,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: MrInternauta/Profile-Readme-WakaTime@main
+      - uses: MrInternauta/MrInternauta@main
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
