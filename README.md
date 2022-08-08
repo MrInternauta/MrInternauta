@@ -10,4 +10,9 @@
 ### 📊 GitHub Stats:
 <div style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrInternauta&theme=dark&hide_border=true" /></div>
 <br/>
+<img
+  src="https://github.com/MrInternauta/MrInternauta/blob/main/images/stat.svg"
+  alt="MrInternauta WakaTime Activity"
+/>
+<br/>
 <div style="text-align:center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
