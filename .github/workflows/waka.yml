@@ -8,7 +8,7 @@ on:
     branches: [main]
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "55 * * * *"
+    - cron: "56 * * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
