@@ -1,4 +1,11 @@
 ## Full-Stack engineer
+- I have almost 4 years worked with JavaScript, I started learning web development (JavaScript, PHP, CSS, and HTML). Then I learned Angular 2+ and Ionic framework for creating multiplatform applications, I worked for a startup as a Full-Stack Developer, Creating Android Native, Cross-Platform Applications (with Ionic 4+), and server applications with Node (Typescript, Express, Socket, and Node Mailer). 
+
+- At the last company, I was a versatile developer working with Angular 12+, NodeJS (With TS), NgRx, Gulp, Net Core, WordPress, MSSQL, Dockers, and Microservices.
+
+- I have a passion to share with others about tech topics, and a have a YouTube Channel and a Course on Udemy with 2,600+ students.
+
+> In my mind, the best way to learn is by teaching and supporting.
 
 ### Social
 [![YouTube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/thetutosmexico)
