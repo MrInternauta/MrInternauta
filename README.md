@@ -1,4 +1,4 @@
-## Full-Stack engineer
+## Software Engineer at Home
 - I have almost 4 years worked with JavaScript, I started learning web development (JavaScript, PHP, CSS, and HTML). Then I learned Angular 2+ and Ionic framework for creating multiplatform applications, I worked for a startup as a Full-Stack Developer, Creating Android Native, Cross-Platform Applications (with Ionic 4+), and server applications with Node (Typescript, Express, Socket, and Node Mailer). 
 
 - At the last company, I was a versatile developer working with Angular 12+, NodeJS (With TS), NgRx, Gulp, Net Core, WordPress, MSSQL, Dockers, and Microservices.
