@@ -1,9 +1,10 @@
 ## Software Engineer at Home
-- I have almost 4 years worked with JavaScript, I started learning web development (JavaScript, PHP, CSS, and HTML). Then I learned Angular 2+ and Ionic framework for creating multiplatform applications, I worked for a startup as a Full-Stack Developer, Creating Android Native, Cross-Platform Applications (with Ionic 4+), and server applications with Node (Typescript, Express, Socket, and Node Mailer). 
+- Summary:
+Experienced software engineer with expertise in web and mobile application development. Proficient in JavaScript and skilled in Angular, Ionic, NodeJS, NgRx, Gulp, and .NET Core. Passionate about sharing tech topics with others and committed to continuous learning.
 
-- At the last company, I was a versatile developer working with Angular 12+, NodeJS (With TS), NgRx, Gulp, Net Core, WordPress, MSSQL, Dockers, and Microservices.
-
-- I have a passion to share with others about tech topics, and a have a YouTube Channel and a Course on Udemy with 2,600+ students.
+- Other:
+YouTube Channel with 1,000+ subscribers and 50,000+ views
+Udemy Course with 2,600+ students and 4.8/5 rating
 
 > In my mind, the best way to learn is by teaching and supporting.
 
